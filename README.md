@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">My Team - Devchallenges.io</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://https://github.com/warty-warthog/my-team-devchallenges">
       Solution
     </a>
     <span> | </span>
@@ -40,18 +40,19 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
 - What was your experience?
+   - I am quite new to CSS grid, so i couldn't really max it's power-out, i was able to see how it works though.
 - What have you learned/improved?
+   - I have improved my layout skills
 - Your wisdom? :)
+   - Persistence is important!
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- HTML
+- CSS
 
 ## Features
 
@@ -70,6 +71,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@warty-warthog](https://{github.com/warty-warthog})
